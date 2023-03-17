@@ -1,0 +1,102 @@
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _2f0577dcbdf1bd9d -p********** _2f0577dcbdf1bd9d -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./pcw/private/backups/20230224_123002-pcw-database.sql.gz
+
+Backup Summary for pcw at 2023-02-24 12:30:02.916755
+Config  : ./pcw/private/backups/20230224_123002-pcw-site_config_backup.json 94.0B
+Database: ./pcw/private/backups/20230224_123002-pcw-database.sql.gz         222.6KiB
+Backup for Site pcw has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _2f0577dcbdf1bd9d -p********** _2f0577dcbdf1bd9d -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./pcw/private/backups/20230225_120009-pcw-database.sql.gz
+
+Backup Summary for pcw at 2023-02-25 12:00:25.010254
+Config  : ./pcw/private/backups/20230225_120009-pcw-site_config_backup.json 158.0B
+Database: ./pcw/private/backups/20230225_120009-pcw-database.sql.gz         1.3MiB
+Backup for Site pcw has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _2f0577dcbdf1bd9d -p********** _2f0577dcbdf1bd9d -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./pcw/private/backups/20230227_120003-pcw-database.sql.gz
+
+Backup Summary for pcw at 2023-02-27 12:00:05.334928
+Config  : ./pcw/private/backups/20230227_120003-pcw-site_config_backup.json 158.0B
+Database: ./pcw/private/backups/20230227_120003-pcw-database.sql.gz         1.5MiB
+Backup for Site pcw has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _2f0577dcbdf1bd9d -p********** _2f0577dcbdf1bd9d -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./pcw/private/backups/20230301_120009-pcw-database.sql.gz
+
+Backup Summary for pcw at 2023-03-01 12:00:23.642542
+Config  : ./pcw/private/backups/20230301_120009-pcw-site_config_backup.json 158.0B
+Database: ./pcw/private/backups/20230301_120009-pcw-database.sql.gz         1.5MiB
+Backup for Site pcw has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _2f0577dcbdf1bd9d -p********** _2f0577dcbdf1bd9d -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./pcw/private/backups/20230302_120005-pcw-database.sql.gz
+
+Backup Summary for pcw at 2023-03-02 12:00:08.970989
+Config  : ./pcw/private/backups/20230302_120005-pcw-site_config_backup.json 158.0B
+Database: ./pcw/private/backups/20230302_120005-pcw-database.sql.gz         1.5MiB
+Backup for Site pcw has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _2f0577dcbdf1bd9d -p********** _2f0577dcbdf1bd9d -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./pcw/private/backups/20230303_120004-pcw-database.sql.gz
+
+Backup Summary for pcw at 2023-03-03 12:00:21.955023
+Config  : ./pcw/private/backups/20230303_120004-pcw-site_config_backup.json 180.0B
+Database: ./pcw/private/backups/20230303_120004-pcw-database.sql.gz         1.6MiB
+Backup for Site pcw has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _2f0577dcbdf1bd9d -p********** _2f0577dcbdf1bd9d -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./pcw/private/backups/20230304_120009-pcw-database.sql.gz
+
+Backup Summary for pcw at 2023-03-04 12:00:23.887812
+Config  : ./pcw/private/backups/20230304_120009-pcw-site_config_backup.json 180.0B
+Database: ./pcw/private/backups/20230304_120009-pcw-database.sql.gz         1.6MiB
+Backup for Site pcw has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _2f0577dcbdf1bd9d -p********** _2f0577dcbdf1bd9d -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./pcw/private/backups/20230306_120010-pcw-database.sql.gz
+
+Backup Summary for pcw at 2023-03-06 12:00:24.825085
+Config  : ./pcw/private/backups/20230306_120010-pcw-site_config_backup.json 180.0B
+Database: ./pcw/private/backups/20230306_120010-pcw-database.sql.gz         1.6MiB
+Backup for Site pcw has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _2f0577dcbdf1bd9d -p********** _2f0577dcbdf1bd9d -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./pcw/private/backups/20230307_120002-pcw-database.sql.gz
+
+Backup Summary for pcw at 2023-03-07 12:00:15.211530
+Config  : ./pcw/private/backups/20230307_120002-pcw-site_config_backup.json 180.0B
+Database: ./pcw/private/backups/20230307_120002-pcw-database.sql.gz         1.6MiB
+Backup for Site pcw has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _2f0577dcbdf1bd9d -p********** _2f0577dcbdf1bd9d -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./pcw/private/backups/20230308_120002-pcw-database.sql.gz
+
+Backup Summary for pcw at 2023-03-08 12:00:05.001097
+Config  : ./pcw/private/backups/20230308_120002-pcw-site_config_backup.json 180.0B
+Database: ./pcw/private/backups/20230308_120002-pcw-database.sql.gz         1.6MiB
+Backup for Site pcw has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _2f0577dcbdf1bd9d -p********** _2f0577dcbdf1bd9d -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./pcw/private/backups/20230309_120003-pcw-database.sql.gz
+
+Backup Summary for pcw at 2023-03-09 12:00:06.173099
+Config  : ./pcw/private/backups/20230309_120003-pcw-site_config_backup.json 180.0B
+Database: ./pcw/private/backups/20230309_120003-pcw-database.sql.gz         1.6MiB
+Backup for Site pcw has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _2f0577dcbdf1bd9d -p********** _2f0577dcbdf1bd9d -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./pcw/private/backups/20230310_120010-pcw-database.sql.gz
+
+Backup Summary for pcw at 2023-03-10 12:00:24.104918
+Config  : ./pcw/private/backups/20230310_120010-pcw-site_config_backup.json 180.0B
+Database: ./pcw/private/backups/20230310_120010-pcw-database.sql.gz         1.6MiB
+Backup for Site pcw has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _2f0577dcbdf1bd9d -p********** _2f0577dcbdf1bd9d -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./pcw/private/backups/20230313_120012-pcw-database.sql.gz
+
+Backup Summary for pcw at 2023-03-13 12:00:28.281677
+Config  : ./pcw/private/backups/20230313_120012-pcw-site_config_backup.json 180.0B
+Database: ./pcw/private/backups/20230313_120012-pcw-database.sql.gz         1.6MiB
+Backup for Site pcw has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _2f0577dcbdf1bd9d -p********** _2f0577dcbdf1bd9d -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./pcw/private/backups/20230314_120010-pcw-database.sql.gz
+
+Backup Summary for pcw at 2023-03-14 12:00:25.430773
+Config  : ./pcw/private/backups/20230314_120010-pcw-site_config_backup.json 180.0B
+Database: ./pcw/private/backups/20230314_120010-pcw-database.sql.gz         1.6MiB
+Backup for Site pcw has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _2f0577dcbdf1bd9d -p********** _2f0577dcbdf1bd9d -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./pcw/private/backups/20230315_120009-pcw-database.sql.gz
+
+Backup Summary for pcw at 2023-03-15 12:00:24.337001
+Config  : ./pcw/private/backups/20230315_120009-pcw-site_config_backup.json 180.0B
+Database: ./pcw/private/backups/20230315_120009-pcw-database.sql.gz         1.6MiB
+Backup for Site pcw has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _2f0577dcbdf1bd9d -p********** _2f0577dcbdf1bd9d -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./pcw/private/backups/20230316_120011-pcw-database.sql.gz
+
+Backup Summary for pcw at 2023-03-16 12:00:27.561148
+Config  : ./pcw/private/backups/20230316_120011-pcw-site_config_backup.json 180.0B
+Database: ./pcw/private/backups/20230316_120011-pcw-database.sql.gz         1.6MiB
+Backup for Site pcw has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _2f0577dcbdf1bd9d -p********** _2f0577dcbdf1bd9d -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./pcw/private/backups/20230317_120003-pcw-database.sql.gz
+
+Backup Summary for pcw at 2023-03-17 12:00:18.116980
+Config  : ./pcw/private/backups/20230317_120003-pcw-site_config_backup.json 180.0B
+Database: ./pcw/private/backups/20230317_120003-pcw-database.sql.gz         1.6MiB
+Backup for Site pcw has been successfully completed

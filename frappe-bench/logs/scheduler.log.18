@@ -1,0 +1,829 @@
+2023-03-03 12:26:34,597 DEBUG scheduler Queued events for site pcw
+2023-03-03 12:27:34,937 DEBUG scheduler Queued events for site pcw
+2023-03-03 12:28:35,268 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for pcw
+2023-03-03 12:28:35,311 DEBUG scheduler Queued events for site pcw
+2023-03-03 12:28:35,487 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for pcw
+2023-03-03 12:28:35,561 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for pcw
+2023-03-03 12:28:35,758 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for pcw
+2023-03-03 12:28:35,825 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for pcw
+2023-03-03 12:28:36,127 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for pcw
+2023-03-03 12:28:36,197 INFO scheduler Scheduled Job Start: frappe.monitor.flush for pcw
+2023-03-03 12:28:36,367 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for pcw
+2023-03-03 12:28:36,434 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for pcw
+2023-03-03 12:28:36,611 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for pcw
+2023-03-03 12:28:36,680 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for pcw
+2023-03-03 12:28:36,997 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for pcw
+2023-03-03 12:28:37,063 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for pcw
+2023-03-03 12:28:37,308 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for pcw
+2023-03-03 12:28:37,379 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for pcw
+2023-03-03 12:28:37,637 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for pcw
+2023-03-03 12:28:37,708 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for pcw
+2023-03-03 12:28:37,900 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for pcw
+2023-03-03 12:29:35,684 DEBUG scheduler Queued events for site pcw
+2023-03-03 12:30:36,016 INFO scheduler Scheduled Job Start: erpnext.utilities.doctype.video.video.update_youtube_data for pcw
+2023-03-03 12:30:36,034 DEBUG scheduler Queued events for site pcw
+2023-03-03 12:30:36,367 INFO scheduler Scheduled Job Complete: erpnext.utilities.doctype.video.video.update_youtube_data for pcw
+2023-03-03 12:30:36,446 INFO scheduler Scheduled Job Start: frappe.twofactor.delete_all_barcodes_for_users for pcw
+2023-03-03 12:30:36,754 INFO scheduler Scheduled Job Complete: frappe.twofactor.delete_all_barcodes_for_users for pcw
+2023-03-03 12:30:36,832 INFO scheduler Scheduled Job Start: frappe.website.doctype.web_page.web_page.check_publish_status for pcw
+2023-03-03 12:30:37,169 INFO scheduler Scheduled Job Complete: frappe.website.doctype.web_page.web_page.check_publish_status for pcw
+2023-03-03 12:30:37,248 INFO scheduler Scheduled Job Start: frappe.oauth.delete_oauth2_data for pcw
+2023-03-03 12:30:37,539 INFO scheduler Scheduled Job Complete: frappe.oauth.delete_oauth2_data for pcw
+2023-03-03 12:31:36,422 DEBUG scheduler Queued events for site pcw
+2023-03-03 12:32:36,744 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for pcw
+2023-03-03 12:32:36,789 DEBUG scheduler Queued events for site pcw
+2023-03-03 12:32:36,958 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for pcw
+2023-03-03 12:32:37,029 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for pcw
+2023-03-03 12:32:37,219 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for pcw
+2023-03-03 12:32:37,288 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for pcw
+2023-03-03 12:32:37,587 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for pcw
+2023-03-03 12:32:37,655 INFO scheduler Scheduled Job Start: frappe.monitor.flush for pcw
+2023-03-03 12:32:37,828 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for pcw
+2023-03-03 12:32:37,898 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for pcw
+2023-03-03 12:32:38,072 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for pcw
+2023-03-03 12:32:38,142 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for pcw
+2023-03-03 12:32:38,456 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for pcw
+2023-03-03 12:32:38,532 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for pcw
+2023-03-03 12:32:38,767 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for pcw
+2023-03-03 12:32:38,837 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for pcw
+2023-03-03 12:32:39,087 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for pcw
+2023-03-03 12:32:39,157 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for pcw
+2023-03-03 12:32:39,350 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for pcw
+2023-03-03 12:33:37,165 DEBUG scheduler Queued events for site pcw
+2023-03-03 12:34:37,493 DEBUG scheduler Queued events for site pcw
+2023-03-03 12:35:37,832 DEBUG scheduler Queued events for site pcw
+2023-03-03 12:36:38,162 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for pcw
+2023-03-03 12:36:38,206 DEBUG scheduler Queued events for site pcw
+2023-03-03 12:36:38,380 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for pcw
+2023-03-03 12:36:38,447 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for pcw
+2023-03-03 12:36:38,641 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for pcw
+2023-03-03 12:36:38,711 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for pcw
+2023-03-03 12:36:39,009 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for pcw
+2023-03-03 12:36:39,081 INFO scheduler Scheduled Job Start: frappe.monitor.flush for pcw
+2023-03-03 12:36:39,250 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for pcw
+2023-03-03 12:36:39,318 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for pcw
+2023-03-03 12:36:39,494 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for pcw
+2023-03-03 12:36:39,564 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for pcw
+2023-03-03 12:36:39,879 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for pcw
+2023-03-03 12:36:39,956 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for pcw
+2023-03-03 12:36:40,189 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for pcw
+2023-03-03 12:36:40,270 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for pcw
+2023-03-03 12:36:40,519 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for pcw
+2023-03-03 12:36:40,590 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for pcw
+2023-03-03 12:36:40,782 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for pcw
+2023-03-03 12:37:38,580 DEBUG scheduler Queued events for site pcw
+2023-03-03 12:38:38,914 DEBUG scheduler Queued events for site pcw
+2023-03-03 12:39:39,252 DEBUG scheduler Queued events for site pcw
+2023-03-03 12:40:39,572 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for pcw
+2023-03-03 12:40:39,617 DEBUG scheduler Queued events for site pcw
+2023-03-03 12:40:39,792 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for pcw
+2023-03-03 12:40:39,873 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for pcw
+2023-03-03 12:40:40,063 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for pcw
+2023-03-03 12:40:40,140 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for pcw
+2023-03-03 12:40:40,443 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for pcw
+2023-03-03 12:40:40,520 INFO scheduler Scheduled Job Start: frappe.monitor.flush for pcw
+2023-03-03 12:40:40,692 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for pcw
+2023-03-03 12:40:40,759 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for pcw
+2023-03-03 12:40:40,937 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for pcw
+2023-03-03 12:40:41,017 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for pcw
+2023-03-03 12:40:41,332 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for pcw
+2023-03-03 12:40:41,398 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for pcw
+2023-03-03 12:40:41,632 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for pcw
+2023-03-03 12:40:41,703 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for pcw
+2023-03-03 12:40:41,952 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for pcw
+2023-03-03 12:40:42,028 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for pcw
+2023-03-03 12:40:42,225 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for pcw
+2023-03-03 12:41:39,872 DEBUG scheduler Queued events for site pcw
+2023-03-03 12:42:40,129 DEBUG scheduler Queued events for site pcw
+2023-03-03 12:43:40,458 DEBUG scheduler Queued events for site pcw
+2023-03-03 12:44:40,755 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for pcw
+2023-03-03 12:44:40,788 DEBUG scheduler Queued events for site pcw
+2023-03-03 12:44:40,972 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for pcw
+2023-03-03 12:44:41,041 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for pcw
+2023-03-03 12:44:41,253 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for pcw
+2023-03-03 12:44:41,328 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for pcw
+2023-03-03 12:44:41,655 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for pcw
+2023-03-03 12:44:41,727 INFO scheduler Scheduled Job Start: frappe.monitor.flush for pcw
+2023-03-03 12:44:41,912 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for pcw
+2023-03-03 12:44:41,983 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for pcw
+2023-03-03 12:44:42,236 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for pcw
+2023-03-03 12:44:42,311 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for pcw
+2023-03-03 12:44:42,656 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for pcw
+2023-03-03 12:44:42,731 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for pcw
+2023-03-03 12:44:43,049 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for pcw
+2023-03-03 12:44:43,124 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for pcw
+2023-03-03 12:44:43,405 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for pcw
+2023-03-03 12:44:43,480 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for pcw
+2023-03-03 12:44:43,690 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for pcw
+2023-03-03 12:45:41,109 DEBUG scheduler Queued events for site pcw
+2023-03-03 12:45:41,163 INFO scheduler Scheduled Job Start: frappe.twofactor.delete_all_barcodes_for_users for pcw
+2023-03-03 12:45:41,529 INFO scheduler Scheduled Job Complete: frappe.twofactor.delete_all_barcodes_for_users for pcw
+2023-03-03 12:45:41,616 INFO scheduler Scheduled Job Start: frappe.website.doctype.web_page.web_page.check_publish_status for pcw
+2023-03-03 12:45:42,000 INFO scheduler Scheduled Job Complete: frappe.website.doctype.web_page.web_page.check_publish_status for pcw
+2023-03-03 12:45:42,089 INFO scheduler Scheduled Job Start: frappe.oauth.delete_oauth2_data for pcw
+2023-03-03 12:45:42,410 INFO scheduler Scheduled Job Complete: frappe.oauth.delete_oauth2_data for pcw
+2023-03-03 12:46:41,398 DEBUG scheduler Queued events for site pcw
+2023-03-03 12:47:41,712 DEBUG scheduler Queued events for site pcw
+2023-03-03 12:48:42,034 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for pcw
+2023-03-03 12:48:42,079 DEBUG scheduler Queued events for site pcw
+2023-03-03 12:48:42,251 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for pcw
+2023-03-03 12:48:42,328 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for pcw
+2023-03-03 12:48:42,532 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for pcw
+2023-03-03 12:48:42,602 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for pcw
+2023-03-03 12:48:42,914 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for pcw
+2023-03-03 12:48:42,986 INFO scheduler Scheduled Job Start: frappe.monitor.flush for pcw
+2023-03-03 12:48:43,162 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for pcw
+2023-03-03 12:48:43,229 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for pcw
+2023-03-03 12:48:43,406 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for pcw
+2023-03-03 12:48:43,481 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for pcw
+2023-03-03 12:48:43,832 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for pcw
+2023-03-03 12:48:43,903 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for pcw
+2023-03-03 12:48:44,142 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for pcw
+2023-03-03 12:48:44,214 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for pcw
+2023-03-03 12:48:44,472 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for pcw
+2023-03-03 12:48:44,551 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for pcw
+2023-03-03 12:48:44,745 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for pcw
+2023-03-03 12:49:42,452 DEBUG scheduler Queued events for site pcw
+2023-03-03 12:50:42,791 DEBUG scheduler Queued events for site pcw
+2023-03-03 12:51:43,095 DEBUG scheduler Queued events for site pcw
+2023-03-03 12:52:43,415 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for pcw
+2023-03-03 12:52:43,461 DEBUG scheduler Queued events for site pcw
+2023-03-03 12:52:43,633 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for pcw
+2023-03-03 12:52:43,711 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for pcw
+2023-03-03 12:52:43,914 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for pcw
+2023-03-03 12:52:43,987 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for pcw
+2023-03-03 12:52:44,292 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for pcw
+2023-03-03 12:52:44,363 INFO scheduler Scheduled Job Start: frappe.monitor.flush for pcw
+2023-03-03 12:52:44,533 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for pcw
+2023-03-03 12:52:44,602 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for pcw
+2023-03-03 12:52:44,778 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for pcw
+2023-03-03 12:52:44,849 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for pcw
+2023-03-03 12:52:45,175 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for pcw
+2023-03-03 12:52:45,246 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for pcw
+2023-03-03 12:52:45,484 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for pcw
+2023-03-03 12:52:45,554 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for pcw
+2023-03-03 12:52:45,814 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for pcw
+2023-03-03 12:52:45,884 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for pcw
+2023-03-03 12:52:46,076 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for pcw
+2023-03-03 12:53:43,801 DEBUG scheduler Queued events for site pcw
+2023-03-03 12:54:44,123 DEBUG scheduler Queued events for site pcw
+2023-03-03 12:55:44,462 DEBUG scheduler Queued events for site pcw
+2023-03-03 12:56:44,779 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for pcw
+2023-03-03 12:56:44,824 DEBUG scheduler Queued events for site pcw
+2023-03-03 12:56:44,993 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for pcw
+2023-03-03 12:56:45,070 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for pcw
+2023-03-03 12:56:45,264 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for pcw
+2023-03-03 12:56:45,331 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for pcw
+2023-03-03 12:56:45,633 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for pcw
+2023-03-03 12:56:45,703 INFO scheduler Scheduled Job Start: frappe.monitor.flush for pcw
+2023-03-03 12:56:45,873 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for pcw
+2023-03-03 12:56:45,944 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for pcw
+2023-03-03 12:56:46,117 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for pcw
+2023-03-03 12:56:46,183 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for pcw
+2023-03-03 12:56:46,503 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for pcw
+2023-03-03 12:56:46,581 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for pcw
+2023-03-03 12:56:46,823 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for pcw
+2023-03-03 12:56:46,902 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for pcw
+2023-03-03 12:56:47,152 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for pcw
+2023-03-03 12:56:47,226 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for pcw
+2023-03-03 12:56:47,416 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for pcw
+2023-03-03 12:57:45,199 DEBUG scheduler Queued events for site pcw
+2023-03-03 12:58:45,543 DEBUG scheduler Queued events for site pcw
+2023-03-03 12:59:45,885 DEBUG scheduler Queued events for site pcw
+2023-03-03 13:00:46,107 INFO scheduler Scheduled Job Start: erpnext.stock.doctype.repost_item_valuation.repost_item_valuation.repost_entries for pcw
+2023-03-03 13:00:46,416 DEBUG scheduler Queued events for site pcw
+2023-03-03 13:00:46,472 INFO scheduler Scheduled Job Complete: erpnext.stock.doctype.repost_item_valuation.repost_item_valuation.repost_entries for pcw
+2023-03-03 13:00:46,559 INFO scheduler Scheduled Job Start: erpnext.erpnext_integrations.connectors.shopify_connection.sync_old_orders for pcw
+2023-03-03 13:00:46,942 INFO scheduler Scheduled Job Complete: erpnext.erpnext_integrations.connectors.shopify_connection.sync_old_orders for pcw
+2023-03-03 13:00:47,027 INFO scheduler Scheduled Job Start: erpnext.support.doctype.issue.issue.set_service_level_agreement_variance for pcw
+2023-03-03 13:00:47,330 INFO scheduler Scheduled Job Complete: erpnext.support.doctype.issue.issue.set_service_level_agreement_variance for pcw
+2023-03-03 13:00:47,413 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.shift_type.shift_type.process_auto_attendance_for_all_shifts for pcw
+2023-03-03 13:00:47,701 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.shift_type.shift_type.process_auto_attendance_for_all_shifts for pcw
+2023-03-03 13:00:47,780 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.collect_project_status for pcw
+2023-03-03 13:00:48,138 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.collect_project_status for pcw
+2023-03-03 13:00:48,218 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.hourly_reminder for pcw
+2023-03-03 13:00:48,595 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.hourly_reminder for pcw
+2023-03-03 13:00:48,675 INFO scheduler Scheduled Job Start: erpnext.erpnext_integrations.doctype.plaid_settings.plaid_settings.automatic_synchronization for pcw
+2023-03-03 13:00:49,041 INFO scheduler Scheduled Job Complete: erpnext.erpnext_integrations.doctype.plaid_settings.plaid_settings.automatic_synchronization for pcw
+2023-03-03 13:00:49,123 INFO scheduler Scheduled Job Start: erpnext.accounts.doctype.gl_entry.gl_entry.rename_gle_sle_docs for pcw
+2023-03-03 13:00:49,447 INFO scheduler Scheduled Job Complete: erpnext.accounts.doctype.gl_entry.gl_entry.rename_gle_sle_docs for pcw
+2023-03-03 13:00:49,530 INFO scheduler Scheduled Job Start: erpnext.erpnext_integrations.doctype.amazon_mws_settings.amazon_mws_settings.schedule_get_order_details for pcw
+2023-03-03 13:00:49,801 INFO scheduler Scheduled Job Complete: erpnext.erpnext_integrations.doctype.amazon_mws_settings.amazon_mws_settings.schedule_get_order_details for pcw
+2023-03-03 13:00:49,888 INFO scheduler Scheduled Job Start: erpnext.accounts.doctype.subscription.subscription.process_all for pcw
+2023-03-03 13:00:50,177 INFO scheduler Scheduled Job Complete: erpnext.accounts.doctype.subscription.subscription.process_all for pcw
+2023-03-03 13:00:50,270 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.daily_work_summary_group.daily_work_summary_group.trigger_emails for pcw
+2023-03-03 13:00:50,528 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.daily_work_summary_group.daily_work_summary_group.trigger_emails for pcw
+2023-03-03 13:00:50,608 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for pcw
+2023-03-03 13:00:50,816 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for pcw
+2023-03-03 13:00:50,894 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for pcw
+2023-03-03 13:00:51,088 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for pcw
+2023-03-03 13:00:51,162 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for pcw
+2023-03-03 13:00:51,466 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for pcw
+2023-03-03 13:00:51,535 INFO scheduler Scheduled Job Start: erpnext.utilities.doctype.video.video.update_youtube_data for pcw
+2023-03-03 13:00:51,891 INFO scheduler Scheduled Job Failed: erpnext.utilities.doctype.video.video.update_youtube_data for pcw
+2023-03-03 13:00:51,971 INFO scheduler Scheduled Job Start: frappe.email.doctype.newsletter.newsletter.send_scheduled_email for pcw
+2023-03-03 13:00:52,297 INFO scheduler Scheduled Job Complete: frappe.email.doctype.newsletter.newsletter.send_scheduled_email for pcw
+2023-03-03 13:00:52,387 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.google_calendar.google_calendar.sync for pcw
+2023-03-03 13:00:52,884 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.google_calendar.google_calendar.sync for pcw
+2023-03-03 13:00:52,985 INFO scheduler Scheduled Job Start: frappe.desk.form.document_follow.send_hourly_updates for pcw
+2023-03-03 13:00:53,261 INFO scheduler Scheduled Job Complete: frappe.desk.form.document_follow.send_hourly_updates for pcw
+2023-03-03 13:00:53,346 INFO scheduler Scheduled Job Start: frappe.deferred_insert.save_to_db for pcw
+2023-03-03 13:00:53,601 INFO scheduler Scheduled Job Complete: frappe.deferred_insert.save_to_db for pcw
+2023-03-03 13:00:53,676 INFO scheduler Scheduled Job Start: frappe.desk.page.backups.backups.delete_downloadable_backups for pcw
+2023-03-03 13:00:53,952 INFO scheduler Scheduled Job Complete: frappe.desk.page.backups.backups.delete_downloadable_backups for pcw
+2023-03-03 13:00:54,045 INFO scheduler Scheduled Job Start: frappe.utils.error.collect_error_snapshots for pcw
+2023-03-03 13:00:54,355 INFO scheduler Scheduled Job Complete: frappe.utils.error.collect_error_snapshots for pcw
+2023-03-03 13:00:54,433 INFO scheduler Scheduled Job Start: frappe.model.utils.user_settings.sync_user_settings for pcw
+2023-03-03 13:00:54,689 INFO scheduler Scheduled Job Complete: frappe.model.utils.user_settings.sync_user_settings for pcw
+2023-03-03 13:00:54,771 INFO scheduler Scheduled Job Start: frappe.model.utils.link_count.update_link_count for pcw
+2023-03-03 13:00:55,044 INFO scheduler Scheduled Job Complete: frappe.model.utils.link_count.update_link_count for pcw
+2023-03-03 13:00:55,133 INFO scheduler Scheduled Job Start: frappe.monitor.flush for pcw
+2023-03-03 13:00:55,308 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for pcw
+2023-03-03 13:00:55,375 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for pcw
+2023-03-03 13:00:55,552 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for pcw
+2023-03-03 13:00:55,623 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for pcw
+2023-03-03 13:00:55,939 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for pcw
+2023-03-03 13:00:56,010 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for pcw
+2023-03-03 13:00:56,259 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for pcw
+2023-03-03 13:00:56,332 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for pcw
+2023-03-03 13:00:56,590 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for pcw
+2023-03-03 13:00:56,658 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for pcw
+2023-03-03 13:00:56,852 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for pcw
+2023-03-03 13:00:56,929 INFO scheduler Scheduled Job Start: frappe.twofactor.delete_all_barcodes_for_users for pcw
+2023-03-03 13:00:57,244 INFO scheduler Scheduled Job Complete: frappe.twofactor.delete_all_barcodes_for_users for pcw
+2023-03-03 13:00:57,327 INFO scheduler Scheduled Job Start: frappe.website.doctype.web_page.web_page.check_publish_status for pcw
+2023-03-03 13:00:57,692 INFO scheduler Scheduled Job Complete: frappe.website.doctype.web_page.web_page.check_publish_status for pcw
+2023-03-03 13:00:57,826 INFO scheduler Scheduled Job Start: frappe.oauth.delete_oauth2_data for pcw
+2023-03-03 13:00:58,133 INFO scheduler Scheduled Job Complete: frappe.oauth.delete_oauth2_data for pcw
+2023-03-03 13:01:46,791 DEBUG scheduler Queued events for site pcw
+2023-03-03 13:02:47,126 DEBUG scheduler Queued events for site pcw
+2023-03-03 13:03:47,460 DEBUG scheduler Queued events for site pcw
+2023-03-03 13:04:47,792 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for pcw
+2023-03-03 13:04:47,837 DEBUG scheduler Queued events for site pcw
+2023-03-03 13:04:48,013 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for pcw
+2023-03-03 13:04:48,097 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for pcw
+2023-03-03 13:04:48,294 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for pcw
+2023-03-03 13:04:48,363 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for pcw
+2023-03-03 13:04:48,663 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for pcw
+2023-03-03 13:04:48,732 INFO scheduler Scheduled Job Start: frappe.monitor.flush for pcw
+2023-03-03 13:04:48,904 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for pcw
+2023-03-03 13:04:48,970 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for pcw
+2023-03-03 13:04:49,148 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for pcw
+2023-03-03 13:04:49,218 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for pcw
+2023-03-03 13:04:49,532 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for pcw
+2023-03-03 13:04:49,609 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for pcw
+2023-03-03 13:04:49,854 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for pcw
+2023-03-03 13:04:49,930 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for pcw
+2023-03-03 13:04:50,183 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for pcw
+2023-03-03 13:04:50,259 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for pcw
+2023-03-03 13:04:50,445 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for pcw
+2023-03-03 13:05:48,211 DEBUG scheduler Queued events for site pcw
+2023-03-03 13:06:48,537 DEBUG scheduler Queued events for site pcw
+2023-03-03 13:07:48,878 DEBUG scheduler Queued events for site pcw
+2023-03-03 13:08:49,199 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for pcw
+2023-03-03 13:08:49,243 DEBUG scheduler Queued events for site pcw
+2023-03-03 13:08:49,420 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for pcw
+2023-03-03 13:08:49,499 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for pcw
+2023-03-03 13:08:49,691 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for pcw
+2023-03-03 13:08:49,766 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for pcw
+2023-03-03 13:08:50,069 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for pcw
+2023-03-03 13:08:50,142 INFO scheduler Scheduled Job Start: frappe.monitor.flush for pcw
+2023-03-03 13:08:50,321 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for pcw
+2023-03-03 13:08:50,390 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for pcw
+2023-03-03 13:08:50,565 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for pcw
+2023-03-03 13:08:50,636 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for pcw
+2023-03-03 13:08:50,950 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for pcw
+2023-03-03 13:08:51,021 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for pcw
+2023-03-03 13:08:51,260 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for pcw
+2023-03-03 13:08:51,332 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for pcw
+2023-03-03 13:08:51,590 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for pcw
+2023-03-03 13:08:51,661 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for pcw
+2023-03-03 13:08:51,870 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for pcw
+2023-03-03 13:09:49,626 DEBUG scheduler Queued events for site pcw
+2023-03-03 13:10:49,959 DEBUG scheduler Queued events for site pcw
+2023-03-03 13:11:50,292 DEBUG scheduler Queued events for site pcw
+2023-03-03 13:12:50,626 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for pcw
+2023-03-03 13:12:50,673 DEBUG scheduler Queued events for site pcw
+2023-03-03 13:12:50,847 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for pcw
+2023-03-03 13:12:50,913 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for pcw
+2023-03-03 13:12:51,108 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for pcw
+2023-03-03 13:12:51,185 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for pcw
+2023-03-03 13:12:51,486 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for pcw
+2023-03-03 13:12:51,563 INFO scheduler Scheduled Job Start: frappe.monitor.flush for pcw
+2023-03-03 13:12:51,737 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for pcw
+2023-03-03 13:12:51,811 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for pcw
+2023-03-03 13:12:51,981 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for pcw
+2023-03-03 13:12:52,052 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for pcw
+2023-03-03 13:12:52,366 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for pcw
+2023-03-03 13:12:52,431 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for pcw
+2023-03-03 13:12:52,677 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for pcw
+2023-03-03 13:12:52,754 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for pcw
+2023-03-03 13:12:53,005 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for pcw
+2023-03-03 13:12:53,073 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for pcw
+2023-03-03 13:12:53,259 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for pcw
+2023-03-03 13:13:51,053 DEBUG scheduler Queued events for site pcw
+2023-03-03 13:14:51,390 DEBUG scheduler Queued events for site pcw
+2023-03-03 13:15:51,745 DEBUG scheduler Queued events for site pcw
+2023-03-03 13:15:51,797 INFO scheduler Scheduled Job Start: frappe.twofactor.delete_all_barcodes_for_users for pcw
+2023-03-03 13:15:52,112 INFO scheduler Scheduled Job Complete: frappe.twofactor.delete_all_barcodes_for_users for pcw
+2023-03-03 13:15:52,192 INFO scheduler Scheduled Job Start: frappe.website.doctype.web_page.web_page.check_publish_status for pcw
+2023-03-03 13:15:52,527 INFO scheduler Scheduled Job Complete: frappe.website.doctype.web_page.web_page.check_publish_status for pcw
+2023-03-03 13:15:52,608 INFO scheduler Scheduled Job Start: frappe.oauth.delete_oauth2_data for pcw
+2023-03-03 13:15:52,908 INFO scheduler Scheduled Job Complete: frappe.oauth.delete_oauth2_data for pcw
+2023-03-03 13:16:52,098 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for pcw
+2023-03-03 13:16:52,154 DEBUG scheduler Queued events for site pcw
+2023-03-03 13:16:52,313 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for pcw
+2023-03-03 13:16:52,383 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for pcw
+2023-03-03 13:16:52,575 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for pcw
+2023-03-03 13:16:52,650 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for pcw
+2023-03-03 13:16:52,954 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for pcw
+2023-03-03 13:16:53,025 INFO scheduler Scheduled Job Start: frappe.monitor.flush for pcw
+2023-03-03 13:16:53,204 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for pcw
+2023-03-03 13:16:53,272 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for pcw
+2023-03-03 13:16:53,448 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for pcw
+2023-03-03 13:16:53,514 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for pcw
+2023-03-03 13:16:53,833 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for pcw
+2023-03-03 13:16:53,905 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for pcw
+2023-03-03 13:16:54,144 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for pcw
+2023-03-03 13:16:54,222 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for pcw
+2023-03-03 13:16:54,505 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for pcw
+2023-03-03 13:16:54,586 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for pcw
+2023-03-03 13:16:54,787 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for pcw
+2023-03-03 13:17:52,543 DEBUG scheduler Queued events for site pcw
+2023-03-03 13:18:52,874 DEBUG scheduler Queued events for site pcw
+2023-03-03 13:19:53,173 DEBUG scheduler Queued events for site pcw
+2023-03-03 13:20:53,491 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for pcw
+2023-03-03 13:20:53,536 DEBUG scheduler Queued events for site pcw
+2023-03-03 13:20:53,698 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for pcw
+2023-03-03 13:20:53,772 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for pcw
+2023-03-03 13:20:53,970 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for pcw
+2023-03-03 13:20:54,047 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for pcw
+2023-03-03 13:20:54,349 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for pcw
+2023-03-03 13:20:54,418 INFO scheduler Scheduled Job Start: frappe.monitor.flush for pcw
+2023-03-03 13:20:54,589 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for pcw
+2023-03-03 13:20:54,662 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for pcw
+2023-03-03 13:20:54,834 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for pcw
+2023-03-03 13:20:54,912 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for pcw
+2023-03-03 13:20:55,232 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for pcw
+2023-03-03 13:20:55,310 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for pcw
+2023-03-03 13:20:55,550 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for pcw
+2023-03-03 13:20:55,621 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for pcw
+2023-03-03 13:20:55,880 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for pcw
+2023-03-03 13:20:55,951 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for pcw
+2023-03-03 13:20:56,141 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for pcw
+2023-03-03 13:21:53,924 DEBUG scheduler Queued events for site pcw
+2023-03-03 13:22:54,262 DEBUG scheduler Queued events for site pcw
+2023-03-03 13:23:54,592 DEBUG scheduler Queued events for site pcw
+2023-03-03 13:24:54,913 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for pcw
+2023-03-03 13:24:54,958 DEBUG scheduler Queued events for site pcw
+2023-03-03 13:24:55,131 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for pcw
+2023-03-03 13:24:55,197 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for pcw
+2023-03-03 13:24:55,391 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for pcw
+2023-03-03 13:24:55,461 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for pcw
+2023-03-03 13:24:55,760 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for pcw
+2023-03-03 13:24:55,831 INFO scheduler Scheduled Job Start: frappe.monitor.flush for pcw
+2023-03-03 13:24:56,000 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for pcw
+2023-03-03 13:24:56,068 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for pcw
+2023-03-03 13:24:56,245 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for pcw
+2023-03-03 13:24:56,315 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for pcw
+2023-03-03 13:24:56,629 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for pcw
+2023-03-03 13:24:56,701 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for pcw
+2023-03-03 13:24:56,941 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for pcw
+2023-03-03 13:24:57,019 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for pcw
+2023-03-03 13:24:57,269 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for pcw
+2023-03-03 13:24:57,338 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for pcw
+2023-03-03 13:24:57,533 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for pcw
+2023-03-03 13:25:55,348 DEBUG scheduler Queued events for site pcw
+2023-03-03 13:26:55,683 DEBUG scheduler Queued events for site pcw
+2023-03-03 13:27:55,987 DEBUG scheduler Queued events for site pcw
+2023-03-03 13:28:56,316 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for pcw
+2023-03-03 13:28:56,360 DEBUG scheduler Queued events for site pcw
+2023-03-03 13:28:56,538 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for pcw
+2023-03-03 13:28:56,610 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for pcw
+2023-03-03 13:28:56,809 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for pcw
+2023-03-03 13:28:56,876 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for pcw
+2023-03-03 13:28:57,178 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for pcw
+2023-03-03 13:28:57,249 INFO scheduler Scheduled Job Start: frappe.monitor.flush for pcw
+2023-03-03 13:28:57,428 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for pcw
+2023-03-03 13:28:57,498 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for pcw
+2023-03-03 13:28:57,672 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for pcw
+2023-03-03 13:28:57,743 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for pcw
+2023-03-03 13:28:58,057 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for pcw
+2023-03-03 13:28:58,136 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for pcw
+2023-03-03 13:28:58,378 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for pcw
+2023-03-03 13:28:58,450 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for pcw
+2023-03-03 13:28:58,707 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for pcw
+2023-03-03 13:28:58,775 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for pcw
+2023-03-03 13:28:58,971 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for pcw
+2023-03-03 13:29:56,732 DEBUG scheduler Queued events for site pcw
+2023-03-03 13:30:57,066 INFO scheduler Scheduled Job Start: erpnext.utilities.doctype.video.video.update_youtube_data for pcw
+2023-03-03 13:30:57,085 DEBUG scheduler Queued events for site pcw
+2023-03-03 13:30:57,418 INFO scheduler Scheduled Job Complete: erpnext.utilities.doctype.video.video.update_youtube_data for pcw
+2023-03-03 13:30:57,501 INFO scheduler Scheduled Job Start: frappe.twofactor.delete_all_barcodes_for_users for pcw
+2023-03-03 13:30:57,804 INFO scheduler Scheduled Job Complete: frappe.twofactor.delete_all_barcodes_for_users for pcw
+2023-03-03 13:30:57,885 INFO scheduler Scheduled Job Start: frappe.website.doctype.web_page.web_page.check_publish_status for pcw
+2023-03-03 13:30:58,220 INFO scheduler Scheduled Job Complete: frappe.website.doctype.web_page.web_page.check_publish_status for pcw
+2023-03-03 13:30:58,300 INFO scheduler Scheduled Job Start: frappe.oauth.delete_oauth2_data for pcw
+2023-03-03 13:30:58,601 INFO scheduler Scheduled Job Complete: frappe.oauth.delete_oauth2_data for pcw
+2023-03-03 13:31:57,474 DEBUG scheduler Queued events for site pcw
+2023-03-03 13:32:57,796 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for pcw
+2023-03-03 13:32:57,838 DEBUG scheduler Queued events for site pcw
+2023-03-03 13:32:58,009 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for pcw
+2023-03-03 13:32:58,081 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for pcw
+2023-03-03 13:32:58,280 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for pcw
+2023-03-03 13:32:58,357 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for pcw
+2023-03-03 13:32:58,658 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for pcw
+2023-03-03 13:32:58,727 INFO scheduler Scheduled Job Start: frappe.monitor.flush for pcw
+2023-03-03 13:32:58,909 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for pcw
+2023-03-03 13:32:58,978 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for pcw
+2023-03-03 13:32:59,154 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for pcw
+2023-03-03 13:32:59,224 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for pcw
+2023-03-03 13:32:59,539 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for pcw
+2023-03-03 13:32:59,615 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for pcw
+2023-03-03 13:32:59,850 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for pcw
+2023-03-03 13:32:59,920 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for pcw
+2023-03-03 13:33:00,179 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for pcw
+2023-03-03 13:33:00,255 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for pcw
+2023-03-03 13:33:00,452 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for pcw
+2023-03-03 13:33:58,205 DEBUG scheduler Queued events for site pcw
+2023-03-03 13:34:58,535 DEBUG scheduler Queued events for site pcw
+2023-03-03 13:35:58,876 DEBUG scheduler Queued events for site pcw
+2023-03-03 13:36:59,208 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for pcw
+2023-03-03 13:36:59,253 DEBUG scheduler Queued events for site pcw
+2023-03-03 13:36:59,431 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for pcw
+2023-03-03 13:36:59,510 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for pcw
+2023-03-03 13:36:59,702 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for pcw
+2023-03-03 13:36:59,777 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for pcw
+2023-03-03 13:37:00,081 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for pcw
+2023-03-03 13:37:00,148 INFO scheduler Scheduled Job Start: frappe.monitor.flush for pcw
+2023-03-03 13:37:00,321 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for pcw
+2023-03-03 13:37:00,398 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for pcw
+2023-03-03 13:37:00,576 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for pcw
+2023-03-03 13:37:00,641 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for pcw
+2023-03-03 13:37:00,960 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for pcw
+2023-03-03 13:37:01,039 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for pcw
+2023-03-03 13:37:01,282 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for pcw
+2023-03-03 13:37:01,353 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for pcw
+2023-03-03 13:37:01,610 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for pcw
+2023-03-03 13:37:01,681 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for pcw
+2023-03-03 13:37:01,874 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for pcw
+2023-03-03 13:37:59,636 DEBUG scheduler Queued events for site pcw
+2023-03-03 13:38:59,964 DEBUG scheduler Queued events for site pcw
+2023-03-03 13:40:00,212 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for pcw
+2023-03-03 13:40:00,260 DEBUG scheduler Queued events for site pcw
+2023-03-03 13:40:00,432 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for pcw
+2023-03-03 13:40:00,498 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for pcw
+2023-03-03 13:40:00,693 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for pcw
+2023-03-03 13:40:00,761 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for pcw
+2023-03-03 13:40:01,061 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for pcw
+2023-03-03 13:40:01,137 INFO scheduler Scheduled Job Start: frappe.monitor.flush for pcw
+2023-03-03 13:40:01,312 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for pcw
+2023-03-03 13:40:01,382 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for pcw
+2023-03-03 13:40:01,556 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for pcw
+2023-03-03 13:40:01,631 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for pcw
+2023-03-03 13:40:01,952 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for pcw
+2023-03-03 13:40:02,021 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for pcw
+2023-03-03 13:40:02,262 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for pcw
+2023-03-03 13:40:02,341 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for pcw
+2023-03-03 13:40:02,592 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for pcw
+2023-03-03 13:40:02,669 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for pcw
+2023-03-03 13:40:02,873 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for pcw
+2023-03-03 13:41:00,640 DEBUG scheduler Queued events for site pcw
+2023-03-03 13:42:00,982 DEBUG scheduler Queued events for site pcw
+2023-03-03 13:43:01,320 DEBUG scheduler Queued events for site pcw
+2023-03-03 13:44:01,640 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for pcw
+2023-03-03 13:44:01,686 DEBUG scheduler Queued events for site pcw
+2023-03-03 13:44:01,855 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for pcw
+2023-03-03 13:44:01,932 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for pcw
+2023-03-03 13:44:02,158 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for pcw
+2023-03-03 13:44:02,230 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for pcw
+2023-03-03 13:44:02,546 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for pcw
+2023-03-03 13:44:02,618 INFO scheduler Scheduled Job Start: frappe.monitor.flush for pcw
+2023-03-03 13:44:02,786 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for pcw
+2023-03-03 13:44:02,857 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for pcw
+2023-03-03 13:44:03,031 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for pcw
+2023-03-03 13:44:03,101 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for pcw
+2023-03-03 13:44:03,415 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for pcw
+2023-03-03 13:44:03,491 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for pcw
+2023-03-03 13:44:03,726 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for pcw
+2023-03-03 13:44:03,802 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for pcw
+2023-03-03 13:44:04,081 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for pcw
+2023-03-03 13:44:04,156 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for pcw
+2023-03-03 13:44:04,349 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for pcw
+2023-03-03 13:45:01,970 DEBUG scheduler Queued events for site pcw
+2023-03-03 13:45:02,022 INFO scheduler Scheduled Job Start: frappe.twofactor.delete_all_barcodes_for_users for pcw
+2023-03-03 13:45:02,336 INFO scheduler Scheduled Job Complete: frappe.twofactor.delete_all_barcodes_for_users for pcw
+2023-03-03 13:45:02,415 INFO scheduler Scheduled Job Start: frappe.website.doctype.web_page.web_page.check_publish_status for pcw
+2023-03-03 13:45:02,751 INFO scheduler Scheduled Job Complete: frappe.website.doctype.web_page.web_page.check_publish_status for pcw
+2023-03-03 13:45:02,832 INFO scheduler Scheduled Job Start: frappe.oauth.delete_oauth2_data for pcw
+2023-03-03 13:45:03,132 INFO scheduler Scheduled Job Complete: frappe.oauth.delete_oauth2_data for pcw
+2023-03-03 13:46:02,356 DEBUG scheduler Queued events for site pcw
+2023-03-03 13:47:02,698 DEBUG scheduler Queued events for site pcw
+2023-03-03 13:48:03,012 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for pcw
+2023-03-03 13:48:03,058 DEBUG scheduler Queued events for site pcw
+2023-03-03 13:48:03,228 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for pcw
+2023-03-03 13:48:03,299 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for pcw
+2023-03-03 13:48:03,499 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for pcw
+2023-03-03 13:48:03,567 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for pcw
+2023-03-03 13:48:03,868 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for pcw
+2023-03-03 13:48:03,939 INFO scheduler Scheduled Job Start: frappe.monitor.flush for pcw
+2023-03-03 13:48:04,109 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for pcw
+2023-03-03 13:48:04,179 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for pcw
+2023-03-03 13:48:04,353 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for pcw
+2023-03-03 13:48:04,424 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for pcw
+2023-03-03 13:48:04,748 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for pcw
+2023-03-03 13:48:04,819 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for pcw
+2023-03-03 13:48:05,058 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for pcw
+2023-03-03 13:48:05,131 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for pcw
+2023-03-03 13:48:05,388 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for pcw
+2023-03-03 13:48:05,464 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for pcw
+2023-03-03 13:48:05,651 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for pcw
+2023-03-03 13:49:03,449 DEBUG scheduler Queued events for site pcw
+2023-03-03 13:50:03,705 DEBUG scheduler Queued events for site pcw
+2023-03-03 13:51:04,040 DEBUG scheduler Queued events for site pcw
+2023-03-03 13:52:04,368 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for pcw
+2023-03-03 13:52:04,416 DEBUG scheduler Queued events for site pcw
+2023-03-03 13:52:04,581 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for pcw
+2023-03-03 13:52:04,657 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for pcw
+2023-03-03 13:52:04,852 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for pcw
+2023-03-03 13:52:04,921 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for pcw
+2023-03-03 13:52:05,220 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for pcw
+2023-03-03 13:52:05,296 INFO scheduler Scheduled Job Start: frappe.monitor.flush for pcw
+2023-03-03 13:52:05,472 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for pcw
+2023-03-03 13:52:05,551 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for pcw
+2023-03-03 13:52:05,726 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for pcw
+2023-03-03 13:52:05,794 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for pcw
+2023-03-03 13:52:06,111 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for pcw
+2023-03-03 13:52:06,187 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for pcw
+2023-03-03 13:52:06,421 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for pcw
+2023-03-03 13:52:06,497 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for pcw
+2023-03-03 13:52:06,751 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for pcw
+2023-03-03 13:52:06,827 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for pcw
+2023-03-03 13:52:07,014 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for pcw
+2023-03-03 13:53:04,793 DEBUG scheduler Queued events for site pcw
+2023-03-03 13:54:05,135 DEBUG scheduler Queued events for site pcw
+2023-03-03 13:55:05,466 DEBUG scheduler Queued events for site pcw
+2023-03-03 13:56:05,785 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for pcw
+2023-03-03 13:56:05,830 DEBUG scheduler Queued events for site pcw
+2023-03-03 13:56:06,006 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for pcw
+2023-03-03 13:56:06,077 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for pcw
+2023-03-03 13:56:06,277 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for pcw
+2023-03-03 13:56:06,348 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for pcw
+2023-03-03 13:56:06,645 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for pcw
+2023-03-03 13:56:06,716 INFO scheduler Scheduled Job Start: frappe.monitor.flush for pcw
+2023-03-03 13:56:06,897 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for pcw
+2023-03-03 13:56:06,969 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for pcw
+2023-03-03 13:56:07,150 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for pcw
+2023-03-03 13:56:07,221 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for pcw
+2023-03-03 13:56:07,535 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for pcw
+2023-03-03 13:56:07,613 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for pcw
+2023-03-03 13:56:07,846 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for pcw
+2023-03-03 13:56:07,922 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for pcw
+2023-03-03 13:56:08,175 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for pcw
+2023-03-03 13:56:08,244 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for pcw
+2023-03-03 13:56:08,438 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for pcw
+2023-03-03 13:57:06,204 DEBUG scheduler Queued events for site pcw
+2023-03-03 13:58:06,545 DEBUG scheduler Queued events for site pcw
+2023-03-03 13:59:06,876 DEBUG scheduler Queued events for site pcw
+2023-03-03 14:00:07,102 INFO scheduler Scheduled Job Start: erpnext.stock.doctype.repost_item_valuation.repost_item_valuation.repost_entries for pcw
+2023-03-03 14:00:07,412 DEBUG scheduler Queued events for site pcw
+2023-03-03 14:00:07,476 INFO scheduler Scheduled Job Complete: erpnext.stock.doctype.repost_item_valuation.repost_item_valuation.repost_entries for pcw
+2023-03-03 14:00:07,570 INFO scheduler Scheduled Job Start: erpnext.erpnext_integrations.connectors.shopify_connection.sync_old_orders for pcw
+2023-03-03 14:00:07,955 INFO scheduler Scheduled Job Complete: erpnext.erpnext_integrations.connectors.shopify_connection.sync_old_orders for pcw
+2023-03-03 14:00:08,040 INFO scheduler Scheduled Job Start: erpnext.support.doctype.issue.issue.set_service_level_agreement_variance for pcw
+2023-03-03 14:00:08,343 INFO scheduler Scheduled Job Complete: erpnext.support.doctype.issue.issue.set_service_level_agreement_variance for pcw
+2023-03-03 14:00:08,426 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.shift_type.shift_type.process_auto_attendance_for_all_shifts for pcw
+2023-03-03 14:00:08,714 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.shift_type.shift_type.process_auto_attendance_for_all_shifts for pcw
+2023-03-03 14:00:08,797 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.collect_project_status for pcw
+2023-03-03 14:00:09,152 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.collect_project_status for pcw
+2023-03-03 14:00:09,227 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.hourly_reminder for pcw
+2023-03-03 14:00:09,597 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.hourly_reminder for pcw
+2023-03-03 14:00:09,678 INFO scheduler Scheduled Job Start: erpnext.erpnext_integrations.doctype.plaid_settings.plaid_settings.automatic_synchronization for pcw
+2023-03-03 14:00:10,053 INFO scheduler Scheduled Job Complete: erpnext.erpnext_integrations.doctype.plaid_settings.plaid_settings.automatic_synchronization for pcw
+2023-03-03 14:00:10,136 INFO scheduler Scheduled Job Start: erpnext.accounts.doctype.gl_entry.gl_entry.rename_gle_sle_docs for pcw
+2023-03-03 14:00:10,460 INFO scheduler Scheduled Job Complete: erpnext.accounts.doctype.gl_entry.gl_entry.rename_gle_sle_docs for pcw
+2023-03-03 14:00:10,552 INFO scheduler Scheduled Job Start: erpnext.erpnext_integrations.doctype.amazon_mws_settings.amazon_mws_settings.schedule_get_order_details for pcw
+2023-03-03 14:00:10,825 INFO scheduler Scheduled Job Complete: erpnext.erpnext_integrations.doctype.amazon_mws_settings.amazon_mws_settings.schedule_get_order_details for pcw
+2023-03-03 14:00:10,912 INFO scheduler Scheduled Job Start: erpnext.accounts.doctype.subscription.subscription.process_all for pcw
+2023-03-03 14:00:11,201 INFO scheduler Scheduled Job Complete: erpnext.accounts.doctype.subscription.subscription.process_all for pcw
+2023-03-03 14:00:11,299 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.daily_work_summary_group.daily_work_summary_group.trigger_emails for pcw
+2023-03-03 14:00:11,561 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.daily_work_summary_group.daily_work_summary_group.trigger_emails for pcw
+2023-03-03 14:00:11,646 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for pcw
+2023-03-03 14:00:11,859 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for pcw
+2023-03-03 14:00:11,933 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for pcw
+2023-03-03 14:00:12,131 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for pcw
+2023-03-03 14:00:12,200 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for pcw
+2023-03-03 14:00:12,500 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for pcw
+2023-03-03 14:00:12,570 INFO scheduler Scheduled Job Start: erpnext.utilities.doctype.video.video.update_youtube_data for pcw
+2023-03-03 14:00:12,939 INFO scheduler Scheduled Job Failed: erpnext.utilities.doctype.video.video.update_youtube_data for pcw
+2023-03-03 14:00:13,039 INFO scheduler Scheduled Job Start: frappe.email.doctype.newsletter.newsletter.send_scheduled_email for pcw
+2023-03-03 14:00:13,361 INFO scheduler Scheduled Job Complete: frappe.email.doctype.newsletter.newsletter.send_scheduled_email for pcw
+2023-03-03 14:00:13,447 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.google_calendar.google_calendar.sync for pcw
+2023-03-03 14:00:13,908 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.google_calendar.google_calendar.sync for pcw
+2023-03-03 14:00:14,000 INFO scheduler Scheduled Job Start: frappe.desk.form.document_follow.send_hourly_updates for pcw
+2023-03-03 14:00:14,284 INFO scheduler Scheduled Job Complete: frappe.desk.form.document_follow.send_hourly_updates for pcw
+2023-03-03 14:00:14,373 INFO scheduler Scheduled Job Start: frappe.deferred_insert.save_to_db for pcw
+2023-03-03 14:00:14,624 INFO scheduler Scheduled Job Complete: frappe.deferred_insert.save_to_db for pcw
+2023-03-03 14:00:14,701 INFO scheduler Scheduled Job Start: frappe.desk.page.backups.backups.delete_downloadable_backups for pcw
+2023-03-03 14:00:14,975 INFO scheduler Scheduled Job Complete: frappe.desk.page.backups.backups.delete_downloadable_backups for pcw
+2023-03-03 14:00:15,062 INFO scheduler Scheduled Job Start: frappe.utils.error.collect_error_snapshots for pcw
+2023-03-03 14:00:15,368 INFO scheduler Scheduled Job Complete: frappe.utils.error.collect_error_snapshots for pcw
+2023-03-03 14:00:15,451 INFO scheduler Scheduled Job Start: frappe.model.utils.user_settings.sync_user_settings for pcw
+2023-03-03 14:00:15,702 INFO scheduler Scheduled Job Complete: frappe.model.utils.user_settings.sync_user_settings for pcw
+2023-03-03 14:00:15,780 INFO scheduler Scheduled Job Start: frappe.model.utils.link_count.update_link_count for pcw
+2023-03-03 14:00:16,047 INFO scheduler Scheduled Job Complete: frappe.model.utils.link_count.update_link_count for pcw
+2023-03-03 14:00:16,127 INFO scheduler Scheduled Job Start: frappe.monitor.flush for pcw
+2023-03-03 14:00:16,301 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for pcw
+2023-03-03 14:00:16,376 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for pcw
+2023-03-03 14:00:16,545 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for pcw
+2023-03-03 14:00:16,616 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for pcw
+2023-03-03 14:00:16,930 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for pcw
+2023-03-03 14:00:17,006 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for pcw
+2023-03-03 14:00:17,241 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for pcw
+2023-03-03 14:00:17,313 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for pcw
+2023-03-03 14:00:17,571 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for pcw
+2023-03-03 14:00:17,646 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for pcw
+2023-03-03 14:00:17,834 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for pcw
+2023-03-03 14:00:17,903 INFO scheduler Scheduled Job Start: frappe.twofactor.delete_all_barcodes_for_users for pcw
+2023-03-03 14:00:18,221 INFO scheduler Scheduled Job Complete: frappe.twofactor.delete_all_barcodes_for_users for pcw
+2023-03-03 14:00:18,303 INFO scheduler Scheduled Job Start: frappe.website.doctype.web_page.web_page.check_publish_status for pcw
+2023-03-03 14:00:18,630 INFO scheduler Scheduled Job Complete: frappe.website.doctype.web_page.web_page.check_publish_status for pcw
+2023-03-03 14:00:18,720 INFO scheduler Scheduled Job Start: frappe.oauth.delete_oauth2_data for pcw
+2023-03-03 14:00:19,022 INFO scheduler Scheduled Job Complete: frappe.oauth.delete_oauth2_data for pcw
+2023-03-03 14:01:07,783 DEBUG scheduler Queued events for site pcw
+2023-03-03 14:02:08,120 DEBUG scheduler Queued events for site pcw
+2023-03-03 14:03:08,452 DEBUG scheduler Queued events for site pcw
+2023-03-03 14:04:08,786 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for pcw
+2023-03-03 14:04:08,831 DEBUG scheduler Queued events for site pcw
+2023-03-03 14:04:09,008 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for pcw
+2023-03-03 14:04:09,078 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for pcw
+2023-03-03 14:04:09,278 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for pcw
+2023-03-03 14:04:09,349 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for pcw
+2023-03-03 14:04:09,646 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for pcw
+2023-03-03 14:04:09,717 INFO scheduler Scheduled Job Start: frappe.monitor.flush for pcw
+2023-03-03 14:04:09,898 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for pcw
+2023-03-03 14:04:09,976 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for pcw
+2023-03-03 14:04:10,152 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for pcw
+2023-03-03 14:04:10,222 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for pcw
+2023-03-03 14:04:10,537 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for pcw
+2023-03-03 14:04:10,607 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for pcw
+2023-03-03 14:04:10,848 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for pcw
+2023-03-03 14:04:10,918 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for pcw
+2023-03-03 14:04:11,177 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for pcw
+2023-03-03 14:04:11,259 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for pcw
+2023-03-03 14:04:11,449 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for pcw
+2023-03-03 14:05:09,129 DEBUG scheduler Queued events for site pcw
+2023-03-03 14:06:09,471 DEBUG scheduler Queued events for site pcw
+2023-03-03 14:07:09,814 DEBUG scheduler Queued events for site pcw
+2023-03-03 14:08:10,132 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for pcw
+2023-03-03 14:08:10,177 DEBUG scheduler Queued events for site pcw
+2023-03-03 14:08:10,343 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for pcw
+2023-03-03 14:08:10,412 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for pcw
+2023-03-03 14:08:10,604 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for pcw
+2023-03-03 14:08:10,680 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for pcw
+2023-03-03 14:08:10,984 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for pcw
+2023-03-03 14:08:11,054 INFO scheduler Scheduled Job Start: frappe.monitor.flush for pcw
+2023-03-03 14:08:11,224 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for pcw
+2023-03-03 14:08:11,294 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for pcw
+2023-03-03 14:08:11,468 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for pcw
+2023-03-03 14:08:11,538 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for pcw
+2023-03-03 14:08:11,853 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for pcw
+2023-03-03 14:08:11,922 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for pcw
+2023-03-03 14:08:12,164 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for pcw
+2023-03-03 14:08:12,236 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for pcw
+2023-03-03 14:08:12,492 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for pcw
+2023-03-03 14:08:12,568 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for pcw
+2023-03-03 14:08:12,756 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for pcw
+2023-03-03 14:09:10,566 DEBUG scheduler Queued events for site pcw
+2023-03-03 14:10:10,909 DEBUG scheduler Queued events for site pcw
+2023-03-03 14:11:11,163 DEBUG scheduler Queued events for site pcw
+2023-03-03 14:12:11,477 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for pcw
+2023-03-03 14:12:11,524 DEBUG scheduler Queued events for site pcw
+2023-03-03 14:12:11,689 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for pcw
+2023-03-03 14:12:11,759 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for pcw
+2023-03-03 14:12:11,960 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for pcw
+2023-03-03 14:12:12,034 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for pcw
+2023-03-03 14:12:12,338 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for pcw
+2023-03-03 14:12:12,407 INFO scheduler Scheduled Job Start: frappe.monitor.flush for pcw
+2023-03-03 14:12:12,580 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for pcw
+2023-03-03 14:12:12,647 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for pcw
+2023-03-03 14:12:12,824 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for pcw
+2023-03-03 14:12:12,898 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for pcw
+2023-03-03 14:12:13,208 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for pcw
+2023-03-03 14:12:13,278 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for pcw
+2023-03-03 14:12:13,519 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for pcw
+2023-03-03 14:12:13,590 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for pcw
+2023-03-03 14:12:13,848 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for pcw
+2023-03-03 14:12:13,915 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for pcw
+2023-03-03 14:12:14,101 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for pcw
+2023-03-03 14:13:11,891 DEBUG scheduler Queued events for site pcw
+2023-03-03 14:14:12,235 DEBUG scheduler Queued events for site pcw
+2023-03-03 14:15:12,577 DEBUG scheduler Queued events for site pcw
+2023-03-03 14:15:12,630 INFO scheduler Scheduled Job Start: frappe.twofactor.delete_all_barcodes_for_users for pcw
+2023-03-03 14:15:12,945 INFO scheduler Scheduled Job Complete: frappe.twofactor.delete_all_barcodes_for_users for pcw
+2023-03-03 14:15:13,037 INFO scheduler Scheduled Job Start: frappe.website.doctype.web_page.web_page.check_publish_status for pcw
+2023-03-03 14:15:13,369 INFO scheduler Scheduled Job Complete: frappe.website.doctype.web_page.web_page.check_publish_status for pcw
+2023-03-03 14:15:13,455 INFO scheduler Scheduled Job Start: frappe.oauth.delete_oauth2_data for pcw
+2023-03-03 14:15:13,750 INFO scheduler Scheduled Job Complete: frappe.oauth.delete_oauth2_data for pcw
+2023-03-03 14:16:12,929 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for pcw
+2023-03-03 14:16:12,983 DEBUG scheduler Queued events for site pcw
+2023-03-03 14:16:13,147 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for pcw
+2023-03-03 14:16:13,218 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for pcw
+2023-03-03 14:16:13,417 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for pcw
+2023-03-03 14:16:13,497 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for pcw
+2023-03-03 14:16:13,795 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for pcw
+2023-03-03 14:16:13,872 INFO scheduler Scheduled Job Start: frappe.monitor.flush for pcw
+2023-03-03 14:16:14,047 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for pcw
+2023-03-03 14:16:14,115 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for pcw
+2023-03-03 14:16:14,291 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for pcw
+2023-03-03 14:16:14,370 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for pcw
+2023-03-03 14:16:14,686 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for pcw
+2023-03-03 14:16:14,757 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for pcw
+2023-03-03 14:16:14,996 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for pcw
+2023-03-03 14:16:15,067 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for pcw
+2023-03-03 14:16:15,316 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for pcw
+2023-03-03 14:16:15,386 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for pcw
+2023-03-03 14:16:15,579 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for pcw
+2023-03-03 14:17:13,365 DEBUG scheduler Queued events for site pcw
+2023-03-03 14:18:13,707 DEBUG scheduler Queued events for site pcw
+2023-03-03 14:19:14,050 DEBUG scheduler Queued events for site pcw
+2023-03-03 14:20:14,381 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for pcw
+2023-03-03 14:20:14,427 DEBUG scheduler Queued events for site pcw
+2023-03-03 14:20:14,603 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for pcw
+2023-03-03 14:20:14,676 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for pcw
+2023-03-03 14:20:14,874 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for pcw
+2023-03-03 14:20:14,949 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for pcw
+2023-03-03 14:20:15,253 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for pcw
+2023-03-03 14:20:15,331 INFO scheduler Scheduled Job Start: frappe.monitor.flush for pcw
+2023-03-03 14:20:15,503 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for pcw
+2023-03-03 14:20:15,571 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for pcw
+2023-03-03 14:20:15,748 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for pcw
+2023-03-03 14:20:15,813 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for pcw
+2023-03-03 14:20:16,132 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for pcw
+2023-03-03 14:20:16,205 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for pcw
+2023-03-03 14:20:16,443 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for pcw
+2023-03-03 14:20:16,519 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for pcw
+2023-03-03 14:20:16,783 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for pcw
+2023-03-03 14:20:16,849 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for pcw
+2023-03-03 14:20:17,044 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for pcw
+2023-03-03 14:21:14,817 DEBUG scheduler Queued events for site pcw
+2023-03-03 14:22:15,159 DEBUG scheduler Queued events for site pcw
+2023-03-03 14:23:15,491 DEBUG scheduler Queued events for site pcw
+2023-03-03 14:24:15,823 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for pcw
+2023-03-03 14:24:15,870 DEBUG scheduler Queued events for site pcw
+2023-03-03 14:24:16,039 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for pcw
+2023-03-03 14:24:16,113 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for pcw
+2023-03-03 14:24:16,310 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for pcw
+2023-03-03 14:24:16,377 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for pcw
+2023-03-03 14:24:16,679 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for pcw
+2023-03-03 14:24:16,746 INFO scheduler Scheduled Job Start: frappe.monitor.flush for pcw
+2023-03-03 14:24:16,919 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for pcw
+2023-03-03 14:24:16,989 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for pcw
+2023-03-03 14:24:17,163 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for pcw
+2023-03-03 14:24:17,231 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for pcw
+2023-03-03 14:24:17,548 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for pcw
+2023-03-03 14:24:17,621 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for pcw
+2023-03-03 14:24:17,859 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for pcw
+2023-03-03 14:24:17,927 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for pcw
+2023-03-03 14:24:18,177 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for pcw
+2023-03-03 14:24:18,248 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for pcw
+2023-03-03 14:24:18,441 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for pcw
+2023-03-03 14:25:16,257 DEBUG scheduler Queued events for site pcw
+2023-03-03 14:26:16,588 DEBUG scheduler Queued events for site pcw
+2023-03-03 14:27:16,885 DEBUG scheduler Queued events for site pcw
+2023-03-03 14:28:17,204 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for pcw
+2023-03-03 14:28:17,252 DEBUG scheduler Queued events for site pcw
+2023-03-03 14:28:17,413 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for pcw
+2023-03-03 14:28:17,480 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for pcw
+2023-03-03 14:28:17,674 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for pcw
+2023-03-03 14:28:17,750 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for pcw
+2023-03-03 14:28:18,053 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for pcw
+2023-03-03 14:28:18,125 INFO scheduler Scheduled Job Start: frappe.monitor.flush for pcw
+2023-03-03 14:28:18,304 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for pcw
+2023-03-03 14:28:18,376 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for pcw
+2023-03-03 14:28:18,548 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for pcw
+2023-03-03 14:28:18,618 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for pcw
+2023-03-03 14:28:18,933 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for pcw
+2023-03-03 14:28:19,001 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for pcw
+2023-03-03 14:28:19,244 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for pcw
+2023-03-03 14:28:19,315 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for pcw
+2023-03-03 14:28:19,573 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for pcw
+2023-03-03 14:28:19,644 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for pcw
+2023-03-03 14:28:19,836 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for pcw
+2023-03-03 14:29:17,637 DEBUG scheduler Queued events for site pcw
+2023-03-03 14:30:17,975 INFO scheduler Scheduled Job Start: erpnext.utilities.doctype.video.video.update_youtube_data for pcw
+2023-03-03 14:30:17,993 DEBUG scheduler Queued events for site pcw
+2023-03-03 14:30:18,327 INFO scheduler Scheduled Job Complete: erpnext.utilities.doctype.video.video.update_youtube_data for pcw
+2023-03-03 14:30:18,406 INFO scheduler Scheduled Job Start: frappe.twofactor.delete_all_barcodes_for_users for pcw
+2023-03-03 14:30:18,713 INFO scheduler Scheduled Job Complete: frappe.twofactor.delete_all_barcodes_for_users for pcw
+2023-03-03 14:30:18,792 INFO scheduler Scheduled Job Start: frappe.website.doctype.web_page.web_page.check_publish_status for pcw
+2023-03-03 14:30:19,128 INFO scheduler Scheduled Job Complete: frappe.website.doctype.web_page.web_page.check_publish_status for pcw
+2023-03-03 14:30:19,212 INFO scheduler Scheduled Job Start: frappe.oauth.delete_oauth2_data for pcw
+2023-03-03 14:30:19,509 INFO scheduler Scheduled Job Complete: frappe.oauth.delete_oauth2_data for pcw
+2023-03-03 14:31:18,337 DEBUG scheduler Queued events for site pcw
+2023-03-03 14:32:18,647 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for pcw
+2023-03-03 14:32:18,694 DEBUG scheduler Queued events for site pcw
+2023-03-03 14:32:18,868 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for pcw
+2023-03-03 14:32:18,945 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for pcw
+2023-03-03 14:32:19,138 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for pcw
+2023-03-03 14:32:19,212 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for pcw

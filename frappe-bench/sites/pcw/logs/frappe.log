@@ -1,0 +1,12 @@
+2023-03-02 13:52:05,853 ERROR frappe New Exception collected with id: 2023-03-02 13:52:05.712965-127.0.0.1-8c4
+Site: pcw
+Form Dict: {}
+2023-03-08 11:35:01,396 ERROR frappe New Exception collected with id: 2023-03-08 11:35:01.287878-127.0.0.1-a77
+Site: pcw
+Form Dict: {'report_name': 'Monthly Attendance Sheet', 'filters': '{"month":"3","year":"2023","company":"Popular Chemical Works","summarized_view":1}', 'cmd': 'frappe.desk.query_report.run'}
+2023-03-08 11:35:06,863 ERROR frappe New Exception collected with id: 2023-03-08 11:35:06.859573-127.0.0.1-0f0
+Site: pcw
+Form Dict: {'report_name': 'Monthly Attendance Sheet', 'filters': '{"month":"3","year":"2023","company":"Popular Chemical Works","summarized_view":1}', 'cmd': 'frappe.desk.query_report.run'}
+2023-03-10 14:43:41,214 ERROR frappe New Exception collected with id: 2023-03-10 14:43:41.067972-127.0.0.1-9ed
+Site: pcw
+Form Dict: {'report_name': 'Territory Target Variance Based On Item Group', 'filters': '{"fiscal_year":"2023","doctype":"Sales Order","period":"Monthly","target_on":"Quantity"}', 'cmd': 'frappe.desk.query_report.run'}
